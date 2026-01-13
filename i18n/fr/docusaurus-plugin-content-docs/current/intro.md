@@ -4,13 +4,13 @@ slug: /
 title: Bienvenue dans la documentation Grillo
 ---
 
-# Bienvenue dans la documentation Grillo
+# Bienvenue dans le livre d'or Grillo
 
 Grillo fournit des capteurs sismiques abordables et connectés à l'IoT qui permettent aux communautés et aux organisations de construire leurs propres réseaux de surveillance des séismes.
 
 ## Ce que vous trouverez ici
 
-Cette documentation couvre tout ce dont vous avez besoin pour commencer avec l'écosystème de surveillance sismique de Grillo :
+Cette documentation couvre tout ce dont vous avez besoin pour commencer à utiliser l'écosystème de surveillance sismique de Grillo :
 
 - **[Premiers pas](/getting-started)** - Nouveau chez Grillo ? Commencez ici pour une vue d'ensemble et des guides de configuration
 - **[Installation du matériel](/hardware/grillo-one)** - Guides détaillés pour les capteurs Grillo One et Grillo Pulse
