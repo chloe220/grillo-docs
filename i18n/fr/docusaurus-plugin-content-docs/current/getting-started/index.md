@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Premiers pas
 ---
 
-# Premiers pas avec Grillo
+# Premiers pas chez Grillo
 
 Bienvenue chez Grillo ! Ce guide vous aidera à comprendre l'écosystème Grillo et à mettre en place votre système de surveillance sismique.
 
@@ -28,7 +28,7 @@ Grillo fournit une solution complète de surveillance sismique composée de :
 
 ### 2. Créez votre compte
 
-Inscrivez-vous pour un compte Grillo Cloud sur [cloud.grillo.io](https://cloud.grillo.io) en utilisant :
+Inscrivez-vous pour obtenir un compte Grillo Cloud sur [cloud.grillo.io](https://cloud.grillo.io) en utilisant :
 - Un compte Google
 - Un compte Microsoft
 - Une adresse e-mail et un mot de passe
